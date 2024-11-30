@@ -1,0 +1,401 @@
+Country Sigla,Country Name,Carbon Intensity
+AD,Andorra,N/A
+AE,United Arab Emirates,388
+AF,Afghanistan,N/A
+AG,Antigua and Barbuda,N/A
+AL,Albania,N/A
+AM,Armenia,N/A
+AO,Angola,N/A
+AR,Argentina,427
+AT,Austria,237
+AU,Australia,453
+AU-LH,Lord Howe Island,N/A
+AU-NSW,New South Wales,416
+AU-NT,Northern Territory,488
+AU-QLD,Queensland,617
+AU-SA,South Australia,322
+AU-TAS,Tasmania,115
+AU-TAS-CBI,Cape Barren Island,N/A
+AU-TAS-FI,Flinders Island,549
+AU-TAS-KI,King Island,650
+AU-VIC,Victoria,438
+AU-WA,Western Australia,382
+AU-WA-RI,Rottnest Island,613
+AW,Aruba,545
+AX,Åland Islands,50
+AZ,Azerbaijan,N/A
+BA,Bosnia and Herzegovina,569
+BB,Barbados,N/A
+BD,Bangladesh,585
+BE,Belgium,204
+BF,Burkina Faso,N/A
+BG,Bulgaria,461
+BH,Bahrain,700
+BI,Burundi,N/A
+BJ,Benin,N/A
+BN,Brunei,N/A
+BO,Bolivia,351
+BR,Brazil,129
+BR-CS,Central Brazil,129
+BR-N,North Brazil,268
+BR-NE,North-East Brazil,102
+BR-S,South Brazil,81
+BS,Bahamas,N/A
+BT,Bhutan,N/A
+BW,Botswana,N/A
+BY,Belarus,N/A
+BZ,Belize,N/A
+CA-AB,Alberta,398
+CA-BC,British Columbia,64
+CA-MB,Manitoba,N/A
+CA-NB,New Brunswick,153
+CA-NL-LB,Labrador,N/A
+CA-NL-NF,Newfoundland,N/A
+CA-NS,Nova Scotia,N/A
+CA-NT,Northwest Territories,N/A
+CA-NU,Nunavut,N/A
+CA-ON,Ontario,43
+CA-PE,Prince Edward Island,N/A
+CA-QC,Québec,29
+CA-SK,Saskatchewan,496
+CA-YT,Yukon,286
+CD,Democratic Republic of the Congo,N/A
+CF,Central African Republic,N/A
+CG,Congo,N/A
+CH,Switzerland,126
+CI,Ivory Coast,N/A
+CL-CHP,Easter Island,N/A
+CL-SEA,Sistema Eléctrico de Aysén,N/A
+CL-SEM,Sistema Eléctrico de Magallanes,N/A
+CL-SEN,Sistema Eléctrico Nacional,119
+CM,Cameroon,N/A
+CN,China,N/A
+CO,Colombia,147
+CR,Costa Rica,35
+CU,Cuba,N/A
+CV,Cabo Verde,N/A
+CY,Cyprus,854
+CZ,Czechia,584
+DE,Germany,470
+DJ,Djibouti,N/A
+DK,Denmark,143
+DK-BHM,Bornholm,122
+DK-DK1,West Denmark,127
+DK-DK2,East Denmark,239
+DM,Dominica,N/A
+DO,Dominican Republic,N/A
+DZ,Algeria,N/A
+EC,Ecuador,N/A
+EE,Estonia,316
+EG,Egypt,N/A
+EH,Western Sahara,N/A
+ER,Eritrea,N/A
+ES,Spain,226
+ES-CE,Ceuta,650
+ES-CN-FVLZ,Fuerteventura/Lanzarote,935
+ES-CN-GC,Gran Canaria,928
+ES-CN-HI,El Hierro,954
+ES-CN-IG,Isla de la Gomera,955
+ES-CN-LP,La Palma,921
+ES-CN-TE,Tenerife,913
+ES-IB-FO,Formentera,458
+ES-IB-IZ,Ibiza,459
+ES-IB-MA,Mallorca,437
+ES-IB-ME,Menorca,911
+ES-ML,Melilla,650
+ET,Ethiopia,N/A
+FI,Finland,65
+FJ,Fiji,N/A
+FK,Falkland Islands,N/A
+FM,Micronesia,N/A
+FO,Faroe Islands,339
+FO-MI,Main Islands,366
+FO-SI,South Island,13
+FR,France,44
+FR-COR,Corsica,429
+GA,Gabon,N/A
+GB,Great Britain,172
+GB-NIR,Northern Ireland,207
+GB-ORK,Orkney Islands,14
+GB-ZET,Shetland Islands,N/A
+GE,Georgia,235
+GF,French Guiana,485
+GG,Guernsey,N/A
+GH,Ghana,N/A
+GI,Gibraltar,N/A
+GL,Greenland,N/A
+GM,Gambia,N/A
+GN,Guinea,N/A
+GP,Guadeloupe,475
+GQ,Equatorial Guinea,N/A
+GR,Greece,461
+GS,South Georgia and the South Sandwich Islands,N/A
+GT,Guatemala,224
+GU,Guam,N/A
+GW,Guinea-Bissau,N/A
+GY,Guyana,N/A
+HK,Hong Kong,435
+HM,Heard Island and McDonald Islands,N/A
+HN,Honduras,198
+HR,Croatia,209
+HT,Haiti,N/A
+HU,Hungary,286
+ID,Indonesia,652
+IE,Ireland,172
+IL,Israel,572
+IM,Isle of Man,N/A
+IN,Mainland India,719
+IN-AN,Andaman and Nicobar Islands,N/A
+IN-DL,Delhi,N/A
+IN-EA,Eastern India,796
+IN-HP,Himachal Pradesh,N/A
+IN-KA,Karnataka,N/A
+IN-MH,Maharashtra,699
+IN-NE,North Eastern India,398
+IN-NO,Northern India,680
+IN-PB,Punjab,708
+IN-SO,Southern India,620
+IN-UP,Uttar Pradesh,N/A
+IN-UT,Uttarakhand,N/A
+IN-WE,Western India,765
+IQ,Iraq,N/A
+IQ-KUR,Kurdistan,N/A
+IR,Iran,N/A
+IS,Iceland,28
+IT,Italy,289
+IT-CNO,Central North Italy,182
+IT-CSO,Central South Italy,205
+IT-NO,North Italy,408
+IT-SAR,Sardinia,600
+IT-SIC,Sicily,51
+IT-SO,South Italy,147
+JE,Jersey,N/A
+JM,Jamaica,N/A
+JO,Jordan,N/A
+JP,Japan,496
+JP-CB,Chūbu,536
+JP-CG,Chūgoku,544
+JP-HKD,Hokkaidō,494
+JP-HR,Hokuriku,485
+JP-KN,Kansai,385
+JP-KY,Kyūshū,377
+JP-ON,Okinawa,625
+JP-SK,Shikoku,381
+JP-TH,Tōhoku,494
+JP-TK,Tōkyō,585
+KE,Kenya,N/A
+KG,Kyrgyzstan,N/A
+KH,Cambodia,N/A
+KM,Comoros,N/A
+KP,North Korea,N/A
+KR,South Korea,385
+KW,Kuwait,550
+KZ,Kazakhstan,N/A
+LA,Laos,N/A
+LB,Lebanon,N/A
+LC,Saint Lucia,N/A
+LI,Liechtenstein,N/A
+LK,Sri Lanka,401
+LR,Liberia,N/A
+LS,Lesotho,N/A
+LT,Lithuania,133
+LU,Luxembourg,314
+LV,Latvia,115
+LY,Libya,N/A
+MA,Morocco,N/A
+MD,Moldova,478
+ME,Montenegro,349
+MG,Madagascar,N/A
+MK,North Macedonia,596
+ML,Mali,N/A
+MM,Myanmar,N/A
+MN,Mongolia,N/A
+MQ,Martinique,N/A
+MR,Mauritania,N/A
+MT,Malta,N/A
+MU,Mauritius,N/A
+MW,Malawi,N/A
+MX,Mexico,N/A
+MX-BC,Baja California,335
+MX-BCS,Baja California Sur,N/A
+MX-CE,Central,411
+MX-NE,North East,411
+MX-NO,North,411
+MX-NW,North West,411
+MX-OC,Occidental,411
+MX-OR,Oriental,411
+MX-PN,Peninsula,411
+MY,Malaysia,526
+MY-EM,Borneo,293
+MY-WM,Peninsula,641
+MZ,Mozambique,N/A
+NA,Namibia,N/A
+NC,New Caledonia,N/A
+NE,Niger,N/A
+NG,Nigeria,363
+NI,Nicaragua,220
+NL,Netherlands,479
+NO,Norway,29
+NO-NO1,Southeast Norway,25
+NO-NO2,Southwest Norway,25
+NO-NO3,Middle Norway,25
+NO-NO4,North Norway,52
+NO-NO5,West Norway,26
+NP,Nepal,N/A
+NZ,New Zealand,41
+NZ-NZA,Auckland Islands,N/A
+NZ-NZC,Chatham Islands,N/A
+NZ-NZST,Stewart Island,N/A
+OM,Oman,494
+PA,Panama,45
+PE,Peru,167
+PF,French Polynesia,386
+PG,Papua New Guinea,N/A
+PH,Philippines,626
+PH-LU,Luzon,656
+PH-MI,Mindanao,546
+PH-VI,Visayas,571
+PK,Pakistan,N/A
+PL,Poland,792
+PM,Saint Pierre and Miquelon,N/A
+PR,Puerto Rico,N/A
+PS,State of Palestine,N/A
+PT,Portugal,131
+PT-AC,Azores,N/A
+PT-MA,Madeira,N/A
+PW,Palau,N/A
+PY,Paraguay,N/A
+QA,Qatar,489
+RE,Réunion,185
+RO,Romania,301
+RS,Serbia,444
+RU,Russia,383
+RU-1,Europe-Ural,359
+RU-2,Siberia,497
+RU-AS,East,444
+RU-EU,Arctic,N/A
+RU-FE,Far East,N/A
+RU-KGD,Kaliningrad,N/A
+RW,Rwanda,N/A
+SA,Saudi Arabia,N/A
+SB,Solomon Islands,N/A
+SD,Sudan,N/A
+SE,Sweden,17
+SE-SE1,North Sweden,13
+SE-SE2,North Central Sweden,13
+SE-SE3,South Central Sweden,18
+SE-SE4,South Sweden,35
+SG,Singapore,495
+SI,Slovenia,346
+SJ,Svalbard and Jan Mayen,N/A
+SK,Slovakia,146
+SL,Sierra Leone,N/A
+SN,Senegal,N/A
+SO,Somalia,N/A
+SR,Suriname,N/A
+SS,South Sudan,N/A
+ST,São Tomé and Príncipe,N/A
+SV,El Salvador,N/A
+SY,Syria,N/A
+SZ,Eswatini,N/A
+TD,Chad,N/A
+TF,French Southern Territories,N/A
+TG,Togo,N/A
+TH,Thailand,409
+TJ,Tajikistan,N/A
+TL,Timor-Leste,N/A
+TM,Turkmenistan,N/A
+TN,Tunisia,N/A
+TO,Tonga,N/A
+TR,Turkey,324
+TT,Trinidad and Tobago,N/A
+TW,Taiwan,601
+TZ,Tanzania,N/A
+UA,Ukraine,N/A
+UA-CR,Crimea,N/A
+UG,Uganda,N/A
+US,Contiguous United States,371
+US-AK,Alaska,N/A
+US-AK-SEAPA,Southeast Alaska Power Agency,24
+US-CAL-BANC,Balancing Authority of Northern California,386
+US-CAL-CISO,CAISO,119
+US-CAL-IID,Imperial Irrigation District,431
+US-CAL-LDWP,Los Angeles Department of Water and Power,522
+US-CAL-TIDC,Turlock Irrigation District,571
+US-CAR-CPLE,Duke Energy Progress East,431
+US-CAR-CPLW,Duke Energy Progress West,487
+US-CAR-DUK,Duke Energy Carolinas,286
+US-CAR-SC,South Carolina Public Service Authority,650
+US-CAR-SCEG,South Carolina Electric & Gas Company,481
+US-CAR-YAD,"Alcoa Power Generating, Inc. Yadkin Division",24
+US-CENT-SPA,Southwestern Power Administration,24
+US-CENT-SWPP,Southwest Power Pool,598
+US-FLA-FMPP,Florida Municipal Power Pool,559
+US-FLA-FPC,Duke Energy Florida,495
+US-FLA-FPL,Florida Power and Light Company,353
+US-FLA-GVL,Gainesville Regional Utilities,594
+US-FLA-HST,City of Homestead,354
+US-FLA-JEA,Jacksonville Electric Authority,645
+US-FLA-SEC,Seminole Electric Cooperative,507
+US-FLA-TAL,City of Tallahassee,484
+US-FLA-TEC,Tampa Electric Company,485
+US-HI-HA,Hawaii,N/A
+US-HI-KA,Kauai,N/A
+US-HI-KH,Kahoolawe,N/A
+US-HI-LA,Lanai,N/A
+US-HI-MA,Maui,N/A
+US-HI-MO,Molokai,N/A
+US-HI-NI,Niihau,N/A
+US-HI-OA,Oahu,N/A
+US-MIDA-PJM,PJM Interconnection,374
+US-MIDW-AECI,Associated Electric Cooperative,764
+US-MIDW-LGEE,Louisville Gas and Electric Company and Kentucky Utilities,938
+US-MIDW-MISO,Midcontinent ISO,352
+US-NE-ISNE,ISO New England,311
+US-NW-AVA,Avista Corporation,223
+US-NW-BPAT,Bonneville Power Administration,86
+US-NW-CHPD,Chelan County,24
+US-NW-DOPD,Douglas County,24
+US-NW-GCPD,Grant County,24
+US-NW-GRID,Gridforce Energy Management,456
+US-NW-IPCO,Idaho Power Company,185
+US-NW-NEVP,Nevada Power Company,325
+US-NW-NWMT,Northwestern Energy,463
+US-NW-PACE,Pacificorp East,430
+US-NW-PACW,Pacificorp West,487
+US-NW-PGE,Portland General Electric Company,457
+US-NW-PSCO,Public Service Company of Colorado,525
+US-NW-PSEI,Puget Sound Energy,323
+US-NW-SCL,Seattle City Light,24
+US-NW-TPWR,City of Tacoma,24
+US-NW-WACM,Western Area Power Administration - Rocky Mountain Region,771
+US-NW-WAUW,Western Area Power Administration - Upper Great Plains West,24
+US-NY-NYIS,New York ISO,267
+US-SE-SEPA,Southeastern Power Administration,24
+US-SE-SOCO,Southern Company Services,392
+US-SW-AZPS,Arizona Public Service Company,354
+US-SW-EPE,El Paso Electric Company,435
+US-SW-PNM,Public Service Company of New Mexico,125
+US-SW-SRP,Salt River Project,174
+US-SW-TEPC,Tucson Electric Power Company,542
+US-SW-WALC,Western Area Power Administration - Desert Southwest Region,379
+US-TEN-TVA,Tennessee Valley Authority,422
+US-TEX-ERCO,Electric Reliability Council of Texas,367
+UY,Uruguay,38
+UZ,Uzbekistan,N/A
+VC,Saint Vincent and the Grenadines,N/A
+VE,Venezuela,N/A
+VI,Virgin Islands,N/A
+VN,Vietnam,N/A
+VN-C,Central Vietnam,N/A
+VN-N,Northern Vietnam,N/A
+VN-S,Southern Vietnam,N/A
+VU,Vanuatu,N/A
+WS,Samoa,N/A
+XK,Kosovo,820
+XX,Northern Cyprus,N/A
+YE,Yemen,N/A
+YT,Mayotte,N/A
+ZA,South Africa,751
+ZM,Zambia,N/A
+ZW,Zimbabwe,N/A
